@@ -1,0 +1,11 @@
+E:/api_practica/build/windows/runner/Debug/data/icudtl.dat
+E:/api_practica/build/windows/runner/Debug/flutter_windows.dll
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/assets/loading-gif.jpg
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/assets/load.webp
+E:/api_practica/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin

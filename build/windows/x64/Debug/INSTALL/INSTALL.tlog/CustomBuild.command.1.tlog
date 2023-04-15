@@ -1,0 +1,10 @@
+^E:\API_PRACTICA\BUILD\WINDOWS\CMAKEFILES\7A7870EA34180652F48A28031229B440\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

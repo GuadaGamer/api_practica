@@ -1,0 +1,10 @@
+^E:\API_PRACTICA\BUILD\WINDOWS\CMAKEFILES\7A7870EA34180652F48A28031229B440\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/api_practica/windows -BE:/api_practica/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/api_practica/build/windows/api_practica.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
