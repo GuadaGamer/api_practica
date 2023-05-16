@@ -48,10 +48,10 @@ class _HomeScreenState extends State<HomeScreen>
           child: Column(
             children: [
               SafeArea(child: Container()),
-              Padding(
-                padding: const EdgeInsets.only(top: 40.0),
+              const Padding(
+                padding: EdgeInsets.only(top: 40.0),
                 child: Column(
-                  children: const [
+                  children: [
                     Text(
                       'NASA APIS',
                       style: TextStyle(color: Colors.white, fontSize: 30.0),

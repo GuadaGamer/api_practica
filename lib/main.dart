@@ -1,5 +1,5 @@
 import 'package:api_practica/routes.dart';
-import 'package:api_practica/screens/home_screen.dart';
+import 'package:api_practica/screens/onboarding_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
@@ -22,7 +22,7 @@ class APIAPP extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
       routes: getApplicationRoutes(),
-      home: const HomeScreen(),
+      home: OnboardingScreen(),
     );
   }
 }
